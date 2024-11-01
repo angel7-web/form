@@ -441,3 +441,12 @@ button.registrar:focus {
     outline: none; /* Quitar borde cuando se enfoca con el teclado */
 }
 
+@media (max-width: 600px) {
+    .contenedor {
+        padding: 10px; /* Ajustar el padding en pantallas más pequeñas */
+    }
+
+    .form-uno {
+        padding: 15px; /* Ajustar el padding en pantallas más pequeñas */
+    }
+}
