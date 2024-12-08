@@ -132,5 +132,5 @@ function validarFormulario() {
 
   // Si todas las validaciones son correctas, enviar el formulario
   alert("Registro exitoso");
-  window.location.href = "formulario.html"; // Cambia por la URL a la que deseas redirigir
+  window.location.href = "https://huejutla.tecnm.mx/"; // Cambia por la URL a la que deseas redirigir
 }
